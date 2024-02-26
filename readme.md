@@ -23,6 +23,8 @@ crysis 2          | 2015              | 6/10
 crysis 3          | 2016              | 7/10
 half life 2       | 2014              | 8/10
 half life 1       | 2015              | 5/10
+terraria          | 2014-2023         | 8/10
+undertale         | 2017              | 8/10
 cyberpunk         | 2021, 2024        | 9/10
 last of us 1      | 2021, 2022        | 9/10
 last of us 2      | 2021              | 2/10
