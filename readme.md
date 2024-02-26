@@ -5,6 +5,19 @@
 - [cyberpunk 2021](cyberpunk_2021)
 - [gta5 2020](gta5_2020)
 
+### my ratings for games
+
+| game name   | years i played it | my rating |
+|-------------|-------------------|-----------|
+| minecraft   | 2012-2023         | 10/10     |
+| cyberpunk   | 2021, 2024        | 10/10     |
+
+
+game name   | years i played it | my rating
+------------|-------------------|----------
+minecraft   | 2012-2023         | 10/10
+cyberpunk   | 2021, 2024        | 10/10
+
 ### my specs
 
 - os: fedora silverblue
