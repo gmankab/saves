@@ -3,6 +3,7 @@
 - [2020/gta5](2020/gta5)
 - [2021/cyberpunk](2021/cyberpunk)
 - [2024/cyberpunk](2024/cyberpunk)
+- [2024/terraria](2024/terraria)
 
 ### my ratings for games
 
