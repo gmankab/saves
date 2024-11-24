@@ -1,8 +1,8 @@
 ### my saves from games
 
-- [cyberpunk 2024](cyberpunk_2024)
-- [cyberpunk 2021](cyberpunk_2021)
-- [gta5 2020](gta5_2020)
+- [2020/gta5](2020/gta5)
+- [2021/cyberpunk](2021/cyberpunk)
+- [2024/cyberpunk](2024/cyberpunk)
 
 ### my ratings for games
 
