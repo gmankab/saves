@@ -4,6 +4,7 @@
 - [2021/cyberpunk](2021/cyberpunk)
 - [2024/cyberpunk](2024/cyberpunk)
 - [2024/terraria](2024/terraria)
+- [2024/spore](2024/spore)
 
 ### my ratings for games
 
