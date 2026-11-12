@@ -1,0 +1,370 @@
+04:57:14:888 (00000328) > [Startup] DEATH STRANDING 2: ON THE BEACH
+04:57:14:888 (00000328) > [Startup] ==============
+04:57:14:888 (00000328) > [Startup] 
+04:57:14:888 (00000328) > [Startup] Build: v1.10.89.0
+04:57:14:888 (00000328) > [Startup] Windows 10.0 (build 19045.5796)
+04:57:14:888 (00000328) > [Startup] Distribution platform: Steam
+04:57:14:888 (00000328) > [Startup] Game directory: C:\users\<username>\Documents\DEATH STRANDING 2 - ON THE BEACH\
+04:57:14:888 (00000328) > [Startup] Working directory: D:\torrents\Death.Stranding.2.On.The.Beach.Digital.Deluxe.Edition-InsaneRamZes
+04:57:14:888 (00000328) > [Startup] Run ID: 5A60-6DE7-F51E-00F1
+04:57:14:888 (00000328) > [Startup] 
+04:57:14:888 (00000328) > [Startup] Memory statistics:
+04:57:14:888 (00000328) > [Startup]   Total RAM = 46.9 GB (48010 MB)
+04:57:14:888 (00000328) > [Startup]   Avail RAM = 39.5 GB (40419 MB)
+04:57:14:888 (00000328) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+04:57:14:888 (00000328) > [Startup]   Avail virtual memory = 131071.7 GB (134217398 MB)
+04:57:14:888 (00000328) > [Startup]   Total page file = 140.7 GB (144030 MB)
+04:57:14:888 (00000328) > [Startup]   Avail page file = 133.2 GB (136439 MB)
+04:57:14:888 (00000328) > [Startup] 
+04:57:14:888 (00000328) > [Startup] RAM info:
+04:57:14:888 (00000328) > [Startup] 
+04:57:14:888 (00000328) > [Steam] Wine version: "Proton - Experimental\files\lib\wine\x86_64-unix\wine"
+04:57:14:888 (00000328) > [Steam] Initializing.
+04:57:14:888 (00000328) > [Steam] Successfully initialized.
+04:57:14:888 (00000328) > [Steam] Currently connected to 0 remote sessions
+04:57:14:888 (00000328) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+04:57:14:888 (00000328) > [Steam] Steam beta branch: unknown
+04:57:15:454 (00000328) > [CRS] Client ID: 5dbe54f5-cd30-4023-9a70-f57f18910da5
+04:57:15:454 (00000328) > [CRS] Session ID: db90762f-3272-48d4-af29-5ab33c26a63f
+04:57:15:611 (00000328) > [NxApp] PreInit
+04:57:15:611 (00000328) > [SwapChain] Initializing...
+04:57:15:611 (00000328) > [DXGI] Initializing...
+04:57:15:788 (00000328) > [NxApp] Streamline was successfully initialized.
+04:57:15:788 (00000328) > [DXGI] Successfully initialized.
+04:57:15:788 (00000328) > [Render] Enumerating adapters:
+04:57:15:788 (00000328) > [Render] 	Adapter 0:
+04:57:15:788 (00000328) > [Monitor] 		Description             : Radeon RX 6800/6800 XT / 6900 XT
+04:57:15:788 (00000328) > [Monitor] 		Vendor                  : AMD (1002)
+04:57:15:788 (00000328) > [Monitor] 		Device                  : 73bf
+04:57:15:788 (00000328) > [Monitor] 		Sub system              : 0
+04:57:15:788 (00000328) > [Monitor] 		Revision                : 0
+04:57:15:788 (00000328) > [Monitor] 		Dedicated Video Memory  : 16128 MB
+04:57:15:788 (00000328) > [Monitor] 		Dedicated System Memory : 0000 MB
+04:57:15:788 (00000328) > [Monitor] 		Shared System Memory    : 24005 MB
+04:57:15:788 (00000328) > [Monitor] 
+04:57:15:788 (00000328) > [Render] Loading ADL...
+04:57:15:790 (00000328) > [Render] Failed to load ADL!
+04:57:15:790 (00000328) > [Render] Enumerating monitors:
+04:57:15:790 (00000328) > [Render] 	Monitor 0: handle = 0000000000000001, size aspect = 1.60, resolution aspect = 1.60, rounded aspect = 1.60
+04:57:15:790 (00000328) > [Render] 
+04:57:15:792 (00000328) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
+04:57:15:792 (00000328) > [SwapChain] Successfully initialized.
+04:57:15:792 (00000328) > [Render] Enumerating Display Modes:
+04:57:15:793 (00000328) > [Render] 	Monitor '1 (Radeon RX 6800/6800 XT / 6900 XT(1))' (0000000000000001): rect(0 2880 0 1800)
+04:57:15:793 (00000328) > [Render] 		- Mode  0 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  1 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  2 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  3 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  4 : 1920 x 1280 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  5 : 1920 x 1280 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  6 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  7 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  8 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode  9 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 10 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 11 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 12 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 13 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 14 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 15 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 16 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 17 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 18 : 2880 x 1620 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 19 : 2880 x 1620 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 20 : 2880 x 1800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] 		- Mode 21 : 2880 x 1800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+04:57:15:793 (00000328) > [Render] ***** Additional Monitor Output Info *****
+04:57:15:793 (00000328) > [Render] 		BitsPerColor: 10
+04:57:15:793 (00000328) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
+04:57:15:793 (00000328) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+04:57:15:793 (00000328) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+04:57:15:793 (00000328) > [Render] ******************************************
+04:57:15:793 (00000328) > [Render] 
+04:57:16:128 (00000328) > [NxApp] Querying GPU Driver Info...
+04:57:16:128 (00000328) > [NxApp] Enumerating available display adapters:
+04:57:16:129 (00000328) > [NxApp] 		Radeon RX 6800/6800 XT / 6900 XT (active)
+04:57:16:129 (00000328) > [NxApp] Successfully found GPU Driver Info
+04:57:16:129 (00000328) > [D3D] Max supported feature level: 11.0
+04:57:16:129 (00000328) > [Render] Disabled D3D12 experimentals
+04:57:16:384 (00000328) > [Render] VMEM Budget: 14610 MB
+04:57:16:384 (00000328) > [Render] VMEM Available: 14606 MB
+04:57:16:385 (00000328) > [Render] GPU node count: 1
+04:57:16:386 (00000328) > [NxD3D] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+04:57:16:386 (00000328) > [NxLowLatency] Reflex support result:Result::eOk
+04:57:16:386 (00000328) > [NxFrameGen] DLSSG not supported as Reflex is not supported
+04:57:16:387 (00000328) > [NxApp] PreInit successful.
+04:57:16:390 (00000328) > [NxLowLatency] XeLL init, code = 0
+04:57:16:390 (00000328) > [NxLowLatency] Anti-Lag2 not supported. Error code (-2147467262)
+04:57:16:416 (00000328) > [NxUpscaler] XeSS init, code = 0
+04:57:16:552 (00000328) > [Input] Keyboard language: "English (United States)" (id: 1033)
+04:57:16:552 (00000328) > [Input] ERROR: Failed to open registry key "
+04:57:16:554 (00000328) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
+04:57:16:554 (00000328) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
+04:57:16:554 (00000328) > [Input] Failed to retrieve setup device 2.
+04:57:16:586 (00000328) > [Input] PsPc libScePad.dll not detected
+04:57:16:586 (00000328) > [Input] Using LibScePad
+04:57:16:614 (00000328) > [Input] Gamepads connected: 0 -> 1
+04:57:16:614 (00000328) > [Input] Gamepad for main player: 8
+04:57:16:614 (00000632) > [Input] new Windows.Gaming.Input raw-controller found 28de 11ff {wgi/nrid/:steam-28DE&1302&00000000000011ff28de#0#324} Xbox 360 Controller for Windows
+
+04:57:16:633 (00000328) > [XInput] Enumerating available xusb hid devices:
+
+04:57:19:642 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+04:57:19:644 (00000328) > [Input] Gamepads connected: 1 -> 2
+04:57:19:644 (00000328) > [Input] Gamepad for main player: 0
+04:57:19:742 (00000328) > [Input] XInput disabled, disconnecting controller. index: 0
+04:57:19:742 (00000328) > [Input] Gamepads connected: 2 -> 1
+04:57:19:742 (00000328) > [Input] Gamepad for main player: 0
+04:57:49:561 (00000328) > [NxLowLatency] Reflex support result:Result::eOk
+04:57:49:562 (00000328) > [Settings] Applied settings to preset: C
+04:57:49:562 (00000328) > [NxApp] Driver Desc: Radeon RX 6800/6800 XT / 6900 XT
+04:57:49:562 (00000328) > [NxApp] Driver Version: 
+04:57:49:562 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+04:57:49:562 (00000328) > [Settings] DirectX Version: 12
+04:57:49:562 (00000328) > [Settings] Window mode: Fullscreen
+04:57:49:562 (00000328) > [Settings] Fullscreen display mode:
+04:57:49:562 (00000328) > [Settings] 	Displaying on monitor: 0
+04:57:49:562 (00000328) > [Settings] 	Resolution: 2880x1800
+04:57:49:562 (00000328) > [Settings] 	HDR: Off
+04:57:49:562 (00000328) > [Settings] 	OS reported Refresh rate: 120
+04:57:49:562 (00000328) > [Settings] 	VSync: On
+04:57:49:562 (00000328) > [Settings] 	Low Latency: None
+04:57:49:563 (00000328) > [Settings] 	Frame generation: FSR
+04:57:49:563 (00000328) > [Settings] 	Max generated frames: 1
+04:57:49:563 (00000328) > [Settings] 	Dynamic resolution FPS target: 0
+04:57:49:563 (00000328) > [Settings] Anti aliasing: FSR
+04:57:49:563 (00000328) > [Settings] Upscale method: FSR
+04:57:49:563 (00000328) > [Settings] Upscale quality: Balanced
+04:57:49:563 (00000328) > [Settings] Upscale sharpen value: 0.000000
+04:57:49:563 (00000328) > [Settings] Graphics Options:
+04:57:49:563 (00000328) > [Settings] 	Texture Quality: Very High
+04:57:49:563 (00000328) > [Settings] 	Texture Filtering: Anisotropic4x
+04:57:49:563 (00000328) > [Settings] 	Shadow Quality: Medium
+04:57:49:563 (00000328) > [Settings] 	Shadow Res: Medium
+04:57:49:563 (00000328) > [Settings] 	Depth of Field: High
+04:57:49:563 (00000328) > [Settings] 	Level of Detail: Medium
+04:57:49:563 (00000328) > [Settings] 	Terrain Quality: Medium
+04:57:49:563 (00000328) > [Settings] 	Clouds Quality: Medium
+04:57:49:563 (00000328) > [Settings] 	Ambient Occlusion: SSAO_High
+04:57:49:563 (00000328) > [Settings] 	Reflections: Low
+04:57:49:563 (00000328) > [Settings] 	Translucency Quality: Default
+
+04:57:49:563 (00000328) > [Settings] 	Bloom: On
+04:57:49:563 (00000328) > [Settings] 	Vignette: On
+04:57:49:563 (00000328) > [Settings] 	Motion Blur: 0.500000
+04:57:49:563 (00000328) > [Settings] 	FOV Correction: 1.000000
+04:57:49:563 (00000328) > [Settings] 	Sharpness: 0.400000
+04:57:49:563 (00000328) > [Settings] 	Lens Flares: On
+04:57:49:563 (00000328) > [Settings] 	Screen Space Shadows: On
+04:57:49:563 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+04:57:49:563 (00000328) > [NxApp] Initializing module prefetch thread
+04:57:49:563 (00000328) > [NxProcessorInfo] Processor info:
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Description:             	Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Group Count:       	1
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Physical Core:     	12
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Logical  Core:     	24
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Family:            	6
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Model:             	63
+04:57:49:563 (00000328) > [NxProcessorInfo] 	Name:              	Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
+04:57:49:563 (00000328) > [NxProcessorInfo] 	AVX:               	1
+04:57:49:563 (00000328) > [NxProcessorInfo] 	F16C:              	1
+04:57:49:563 (00000328) > [NxProcessorInfo] 	AVX2:              	1
+04:57:49:563 (00000328) > [NxProcessorInfo] 	NormalAffinity(auto)
+04:57:49:563 (00000328) > [NxProcessorInfo] 	TSC Freq:          	2295.00 MHz
+04:57:49:563 (00000328) > [NxProcessorInfo] 	QPC Freq:          	10.00 MHz
+04:57:49:563 (00000328) > [System] Event pooling enabled (0)
+04:57:50:057 (00000328) > [Renderer] RenderBudgetMethod = Conservative (8)
+04:57:50:059 (00000328) > [NxApp] Creating window...
+04:57:50:200 (00000776) > [GameWindow] UpdateState bVisible true
+04:57:50:232 (00000328) > [NxApp] Window created.
+04:57:50:232 (00000328) > [NxApp] Initializing swapchain...
+04:57:50:232 (00000672) > [SwapChain] Creating...
+04:57:50:232 (00000672) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2880x1800
+04:57:50:291 (00000672) > [DXGI] Created swapchain.
+04:57:50:292 (00000672) > [SwapChain] Successfully created.
+04:57:50:292 (00000672) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2880x1800
+04:57:50:292 (00000328) > [NxApp] Swapchain initialized
+04:57:50:292 (00000328) > [NxApp] Initializing renderer...
+04:57:50:293 (00000328) > [NxApp] Renderer initialized
+04:57:50:293 (00000328) > [Render] UMA = False, CacheCoherentUMA = False
+04:57:50:293 (00000328) > [Render] Tight alignment support: yes
+04:57:50:382 (00000328) > [PSO] Loaded 25770 shader hashes, 42616 descriptors from appdir:HashDB.bin
+04:57:50:382 (00000328) > [PSO] Loaded 1 shader hashes, 1 descriptors from appdata:UserHashDB.bin
+04:57:50:440 (00000328) > [NxFrameGen] Pausing framegen
+04:58:06:177 (00000328) > [PSN Account Linking] [PSN] PSPC initialization failed: 8a80010f
+04:58:06:178 (00000328) > [PSN Account Linking] [PSN] Setting device data collection setting failed 8a80010d
+04:58:06:178 (00000328) > [PSN Account Linking] Failed to update data collection policy to PSPC, error=0
+04:58:06:179 (00000328) > [NxStorage] Storage Drive Type is SSD.
+04:58:06:180 (00000328) > [NXStorage] Storage Drive (D:) free disk space is 285523062784 (bytes).
+
+04:58:06:190 (00000328) > [NXStorageReadDevice] Initialized DirectStorage.
+
+04:58:07:377 (00000524) > [PSN Account Linking] [PSN] Setting device data collection setting failed 8a80010d
+04:58:07:377 (00000524) > [PSN Account Linking] Failed to update data collection policy to PSPC, error=0
+04:58:08:002 (00000544) > [PSN Account Linking] [PSN] Setting device data collection setting failed 8a80010d
+04:58:08:002 (00000544) > [PSN Account Linking] Failed to update data collection policy to PSPC, error=0
+04:58:08:010 (00000548) > [PSN Account Linking] [PSN] Setting device data collection setting failed 8a80010d
+04:58:08:010 (00000532) > [PSN Account Linking] [PSN] Setting device data collection setting failed 8a80010d
+04:58:08:010 (00000548) > [PSN Account Linking] Failed to update data collection policy to PSPC, error=0
+04:58:08:010 (00000532) > [PSN Account Linking] Failed to update data collection policy to PSPC, error=0
+04:58:08:010 (00000508) > [PSN Account Linking] [PSN] Setting device data collection setting failed 8a80010d
+04:58:08:010 (00000508) > [PSN Account Linking] Failed to update data collection policy to PSPC, error=0
+04:58:08:527 (00000328) > [NxFrameGen] Unpausing framegen
+04:58:08:560 (00000328) > [Steam] Stats received: 1
+04:58:08:584 (00000328) > [NxFrameGen] Pausing framegen
+04:58:09:816 (00000564) > [PSN Account Linking] AuthenticationRequest: 400
+04:58:09:830 (00000328) > [PSN Account Linking] Auth Failed, error=Steam_AuthenticationFailed
+04:58:14:888 (00000368) > [Render] Working set: 3214MB Page file: 3109MB Video Budget: 14671MB Video Usage: 4318MB Sys Budget: 23598MB Sys Usage: 796MB Tex Usage: 1467MB Tex Budget: 1509MB Mesh Usage: 110MB Mesh Budget: 191MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 10.150000
+04:59:02:929 (00000328) > [NxFrameGen] Unpausing framegen
+04:59:04:891 (00000328) > [NxFrameGen] Pausing framegen
+04:59:05:621 (00000328) > [NxFrameGen] Unpausing framegen
+04:59:14:907 (00000368) > [Render] Working set: 4569MB Page file: 4464MB Video Budget: 14717MB Video Usage: 7610MB Sys Budget: 23554MB Sys Usage: 882MB Tex Usage: 3119MB Tex Budget: 3219MB Mesh Usage: 1510MB Mesh Budget: 1617MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 100.666664
+04:59:26:746 (00000328) > [NxFrameGen] Pausing framegen
+05:00:14:992 (00000368) > [Render] Working set: 4627MB Page file: 4522MB Video Budget: 14229MB Video Usage: 7887MB Sys Budget: 23496MB Sys Usage: 883MB Tex Usage: 3765MB Tex Budget: 3730MB Mesh Usage: 1735MB Mesh Budget: 1841MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 24.066668
+05:00:39:700 (00000328) > [NxFrameGen] Unpausing framegen
+05:00:56:277 (00000328) > [NxFrameGen] Pausing framegen
+05:01:15:000 (00000368) > [Render] Working set: 4636MB Page file: 4531MB Video Budget: 14499MB Video Usage: 7919MB Sys Budget: 23526MB Sys Usage: 884MB Tex Usage: 3792MB Tex Budget: 3730MB Mesh Usage: 1736MB Mesh Budget: 1844MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 29.133333
+05:01:46:307 (00000328) > [NxFrameGen] Unpausing framegen
+05:02:08:724 (00000328) > [NxFrameGen] Pausing framegen
+05:02:15:008 (00000368) > [Render] Working set: 4678MB Page file: 4573MB Video Budget: 14519MB Video Usage: 8266MB Sys Budget: 23536MB Sys Usage: 884MB Tex Usage: 3796MB Tex Budget: 3730MB Mesh Usage: 1870MB Mesh Budget: 1978MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 44.883335
+05:02:25:759 (00000328) > [NxFrameGen] Unpausing framegen
+05:02:56:176 (00000328) > [NxFrameGen] Pausing framegen
+05:03:00:319 (00000328) > [NxFrameGen] Unpausing framegen
+05:03:15:024 (00000368) > [Render] Working set: 4668MB Page file: 4563MB Video Budget: 14511MB Video Usage: 8450MB Sys Budget: 23536MB Sys Usage: 885MB Tex Usage: 3813MB Tex Budget: 3734MB Mesh Usage: 1886MB Mesh Budget: 1901MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 42.366665
+05:03:37:784 (00000328) > [NxFrameGen] Pausing framegen
+05:03:45:847 (00000328) > [NxFrameGen] Unpausing framegen
+05:04:15:042 (00000368) > [Render] Working set: 4866MB Page file: 4761MB Video Budget: 14511MB Video Usage: 8476MB Sys Budget: 23534MB Sys Usage: 886MB Tex Usage: 3887MB Tex Budget: 3815MB Mesh Usage: 1940MB Mesh Budget: 1985MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 38.783333
+05:04:24:091 (00000328) > [NxFrameGen] Pausing framegen
+05:04:27:232 (00000328) > [NxFrameGen] Unpausing framegen
+05:04:53:904 (00000328) > [NxFrameGen] Pausing framegen
+05:05:05:889 (00000328) > [NxFrameGen] Unpausing framegen
+05:05:15:047 (00000368) > [Render] Working set: 5010MB Page file: 4905MB Video Budget: 14519MB Video Usage: 8804MB Sys Budget: 23526MB Sys Usage: 889MB Tex Usage: 3767MB Tex Budget: 3896MB Mesh Usage: 2040MB Mesh Budget: 2085MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 36.833332
+05:05:24:809 (00000328) > [NxFrameGen] Pausing framegen
+05:05:25:392 (00000328) > [NxFrameGen] Unpausing framegen
+05:05:44:941 (00000328) > [NxFrameGen] Pausing framegen
+05:06:15:049 (00000368) > [Render] Working set: 5095MB Page file: 4990MB Video Budget: 14527MB Video Usage: 9408MB Sys Budget: 23526MB Sys Usage: 894MB Tex Usage: 4600MB Tex Budget: 4524MB Mesh Usage: 2141MB Mesh Budget: 2189MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 45.533333
+05:06:33:052 (00000328) > [NxFrameGen] Unpausing framegen
+05:06:34:840 (00000328) > [NxFrameGen] Pausing framegen
+05:06:43:073 (00000328) > [NxFrameGen] Unpausing framegen
+05:06:44:886 (00000328) > [NxFrameGen] Pausing framegen
+05:06:58:591 (00000328) > [NxFrameGen] Unpausing framegen
+05:07:15:061 (00000368) > [Render] Working set: 5097MB Page file: 4992MB Video Budget: 14560MB Video Usage: 9408MB Sys Budget: 23526MB Sys Usage: 895MB Tex Usage: 4603MB Tex Budget: 4526MB Mesh Usage: 2141MB Mesh Budget: 2231MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 53.716667
+05:07:20:754 (00000328) > [NxFrameGen] Pausing framegen
+05:07:46:209 (00000328) > [NxFrameGen] Unpausing framegen
+05:07:49:672 (00000328) > [NxFrameGen] Pausing framegen
+05:08:15:082 (00000368) > [Render] Working set: 5126MB Page file: 5021MB Video Budget: 14560MB Video Usage: 9504MB Sys Budget: 23540MB Sys Usage: 895MB Tex Usage: 4604MB Tex Budget: 4526MB Mesh Usage: 2154MB Mesh Budget: 2220MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 45.683334
+05:08:26:358 (00000328) > [NxFrameGen] Unpausing framegen
+05:08:37:383 (00000328) > [NxFrameGen] Pausing framegen
+05:09:04:101 (00000328) > [NxFrameGen] Unpausing framegen
+05:09:15:092 (00000368) > [Render] Working set: 5224MB Page file: 5119MB Video Budget: 14552MB Video Usage: 9380MB Sys Budget: 23526MB Sys Usage: 895MB Tex Usage: 4611MB Tex Budget: 4526MB Mesh Usage: 2183MB Mesh Budget: 2291MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 51.450001
+05:10:15:095 (00000368) > [Render] Working set: 5225MB Page file: 5120MB Video Budget: 14552MB Video Usage: 9380MB Sys Budget: 23526MB Sys Usage: 895MB Tex Usage: 4611MB Tex Budget: 4526MB Mesh Usage: 2183MB Mesh Budget: 2291MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 51.116665
+05:10:37:693 (00000328) > [NxFrameGen] Pausing framegen
+05:10:40:286 (00000328) > [NxFrameGen] Unpausing framegen
+05:11:11:903 (00000328) > [NxFrameGen] Pausing framegen
+05:11:15:106 (00000368) > [Render] Working set: 5233MB Page file: 5128MB Video Budget: 14572MB Video Usage: 9268MB Sys Budget: 23546MB Sys Usage: 895MB Tex Usage: 4606MB Tex Budget: 4526MB Mesh Usage: 1956MB Mesh Budget: 2139MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 53.916668
+05:11:15:766 (00000328) > [NxFrameGen] Unpausing framegen
+05:11:31:727 (00000328) > [NxFrameGen] Pausing framegen
+05:11:39:212 (00000328) > [NxFrameGen] Unpausing framegen
+05:11:55:057 (00000328) > [NxFrameGen] Pausing framegen
+05:12:03:438 (00000328) > [NxFrameGen] Unpausing framegen
+05:12:15:126 (00000368) > [Render] Working set: 5184MB Page file: 5079MB Video Budget: 14572MB Video Usage: 9813MB Sys Budget: 23530MB Sys Usage: 895MB Tex Usage: 4607MB Tex Budget: 4526MB Mesh Usage: 2018MB Mesh Budget: 2050MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 38.683334
+05:12:17:221 (00000328) > [NxFrameGen] Pausing framegen
+05:13:01:229 (00000328) > [NxFrameGen] Unpausing framegen
+05:13:07:378 (00000328) > [NxFrameGen] Pausing framegen
+05:13:09:039 (00000328) > [NxFrameGen] Unpausing framegen
+05:13:15:128 (00000368) > [Render] Working set: 5194MB Page file: 5089MB Video Budget: 14580MB Video Usage: 9776MB Sys Budget: 23528MB Sys Usage: 895MB Tex Usage: 4603MB Tex Budget: 4526MB Mesh Usage: 2147MB Mesh Budget: 2232MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 41.383335
+05:13:40:788 (00000328) > [NxFrameGen] Pausing framegen
+05:13:45:109 (00000328) > [NxFrameGen] Unpausing framegen
+05:13:45:167 (00000328) > [NxFrameGen] Pausing framegen
+05:13:52:847 (00000328) > [NxFrameGen] Unpausing framegen
+05:13:59:293 (00000328) > [NxFrameGen] Pausing framegen
+05:14:03:236 (00000328) > [NxFrameGen] Unpausing framegen
+05:14:03:285 (00000328) > [NxFrameGen] Pausing framegen
+05:14:06:889 (00000328) > [NxFrameGen] Unpausing framegen
+05:14:15:135 (00000368) > [Render] Working set: 5206MB Page file: 5101MB Video Budget: 14580MB Video Usage: 9760MB Sys Budget: 23528MB Sys Usage: 895MB Tex Usage: 4614MB Tex Budget: 4535MB Mesh Usage: 2149MB Mesh Budget: 2234MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 52.083332
+05:14:45:200 (00000328) > [NxFrameGen] Pausing framegen
+05:14:50:565 (00000328) > [NxFrameGen] Unpausing framegen
+05:14:50:565 (00000328) > [NxFrameGen] Bailed out of framegen prepare because the context was null or FG was not enabled
+05:14:50:569 (00000672) > [NxFrameGen] Cannot dispatch FrameGen
+05:14:58:677 (00000328) > [NxFrameGen] Pausing framegen
+05:15:04:785 (00000328) > [NxFrameGen] Unpausing framegen
+05:15:10:757 (00000328) > [NxFrameGen] Pausing framegen
+05:15:15:155 (00000368) > [Render] Working set: 5238MB Page file: 5133MB Video Budget: 14572MB Video Usage: 9883MB Sys Budget: 23528MB Sys Usage: 895MB Tex Usage: 4614MB Tex Budget: 4535MB Mesh Usage: 2147MB Mesh Budget: 2207MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 43.333332
+05:15:20:058 (00000328) > [NxFrameGen] Unpausing framegen
+05:16:15:167 (00000368) > [Render] Working set: 5255MB Page file: 5150MB Video Budget: 14572MB Video Usage: 9487MB Sys Budget: 23528MB Sys Usage: 895MB Tex Usage: 4613MB Tex Budget: 4535MB Mesh Usage: 1982MB Mesh Budget: 1992MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 35.250000
+05:17:15:191 (00000368) > [Render] Working set: 5256MB Page file: 5151MB Video Budget: 14572MB Video Usage: 9466MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4588MB Tex Budget: 4535MB Mesh Usage: 1966MB Mesh Budget: 1991MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 34.416668
+05:18:15:198 (00000368) > [Render] Working set: 5260MB Page file: 5155MB Video Budget: 14572MB Video Usage: 9284MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4618MB Tex Budget: 4535MB Mesh Usage: 1977MB Mesh Budget: 1997MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 37.700001
+05:19:15:202 (00000368) > [Render] Working set: 5266MB Page file: 5161MB Video Budget: 14572MB Video Usage: 9412MB Sys Budget: 23548MB Sys Usage: 896MB Tex Usage: 4575MB Tex Budget: 4535MB Mesh Usage: 1979MB Mesh Budget: 1988MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 43.299999
+05:20:15:207 (00000368) > [Render] Working set: 5269MB Page file: 5164MB Video Budget: 14572MB Video Usage: 9454MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4620MB Tex Budget: 4535MB Mesh Usage: 1982MB Mesh Budget: 1999MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 35.466667
+05:21:15:226 (00000368) > [Render] Working set: 5276MB Page file: 5171MB Video Budget: 14572MB Video Usage: 9486MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4616MB Tex Budget: 4535MB Mesh Usage: 1986MB Mesh Budget: 1995MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 36.033333
+05:22:15:229 (00000368) > [Render] Working set: 5278MB Page file: 5173MB Video Budget: 14572MB Video Usage: 9481MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4625MB Tex Budget: 4535MB Mesh Usage: 1961MB Mesh Budget: 1975MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 37.333332
+05:23:05:767 (00000328) > [NxFrameGen] Pausing framegen
+05:23:15:234 (00000368) > [Render] Working set: 5305MB Page file: 5200MB Video Budget: 14580MB Video Usage: 9762MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4625MB Tex Budget: 4535MB Mesh Usage: 2089MB Mesh Budget: 2146MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 40.599998
+05:23:17:159 (00000328) > [NxFrameGen] Unpausing framegen
+05:23:17:159 (00000328) > [NxFrameGen] Bailed out of framegen prepare because the context was null or FG was not enabled
+05:23:17:162 (00000672) > [NxFrameGen] Cannot dispatch FrameGen
+05:24:15:237 (00000368) > [Render] Working set: 5303MB Page file: 5198MB Video Budget: 14572MB Video Usage: 9460MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4620MB Tex Budget: 4535MB Mesh Usage: 1968MB Mesh Budget: 1987MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 33.166668
+05:25:14:962 (00000328) > [NxFrameGen] Pausing framegen
+05:25:15:241 (00000368) > [Render] Working set: 5339MB Page file: 5234MB Video Budget: 14572MB Video Usage: 9650MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4639MB Tex Budget: 4535MB Mesh Usage: 2055MB Mesh Budget: 2108MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 34.200001
+05:25:22:142 (00000328) > [NxFrameGen] Unpausing framegen
+05:25:22:142 (00000328) > [NxFrameGen] Bailed out of framegen prepare because the context was null or FG was not enabled
+05:25:22:145 (00000672) > [NxFrameGen] Cannot dispatch FrameGen
+05:26:15:248 (00000368) > [Render] Working set: 5347MB Page file: 5242MB Video Budget: 14572MB Video Usage: 9663MB Sys Budget: 23528MB Sys Usage: 896MB Tex Usage: 4593MB Tex Budget: 4535MB Mesh Usage: 1971MB Mesh Budget: 1988MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 36.900002
+05:27:15:259 (00000368) > [Render] Working set: 5355MB Page file: 5250MB Video Budget: 14572MB Video Usage: 9919MB Sys Budget: 23528MB Sys Usage: 897MB Tex Usage: 4765MB Tex Budget: 4678MB Mesh Usage: 1984MB Mesh Budget: 2000MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 36.599998
+05:28:15:263 (00000368) > [Render] Working set: 5357MB Page file: 5252MB Video Budget: 14572MB Video Usage: 9887MB Sys Budget: 23528MB Sys Usage: 897MB Tex Usage: 4758MB Tex Budget: 4678MB Mesh Usage: 1984MB Mesh Budget: 2002MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 45.366665
+05:28:17:532 (00000328) > [NxFrameGen] Pausing framegen
+05:28:25:073 (00000328) > [NxFrameGen] Unpausing framegen
+05:28:25:073 (00000328) > [NxFrameGen] Bailed out of framegen prepare because the context was null or FG was not enabled
+05:28:25:077 (00000672) > [NxFrameGen] Cannot dispatch FrameGen
+05:29:15:281 (00000368) > [Render] Working set: 5367MB Page file: 5262MB Video Budget: 14572MB Video Usage: 9930MB Sys Budget: 23522MB Sys Usage: 897MB Tex Usage: 4769MB Tex Budget: 4678MB Mesh Usage: 1968MB Mesh Budget: 1976MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 36.533333
+05:30:15:309 (00000368) > [Render] Working set: 5389MB Page file: 5284MB Video Budget: 14572MB Video Usage: 9898MB Sys Budget: 23522MB Sys Usage: 897MB Tex Usage: 4736MB Tex Budget: 4678MB Mesh Usage: 1965MB Mesh Budget: 1976MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 38.466667
+05:31:15:322 (00000368) > [Render] Working set: 5349MB Page file: 5244MB Video Budget: 14551MB Video Usage: 9828MB Sys Budget: 23524MB Sys Usage: 897MB Tex Usage: 4764MB Tex Budget: 4678MB Mesh Usage: 1955MB Mesh Budget: 1977MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 39.299999
+05:31:38:306 (00000328) > [NxFrameGen] Pausing framegen
+05:31:56:194 (00000328) > [NxFrameGen] Unpausing framegen
+05:32:15:333 (00000368) > [Render] Working set: 5349MB Page file: 5244MB Video Budget: 14551MB Video Usage: 9839MB Sys Budget: 23523MB Sys Usage: 897MB Tex Usage: 4765MB Tex Budget: 4678MB Mesh Usage: 1988MB Mesh Budget: 1994MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 42.750000
+05:33:15:341 (00000368) > [Render] Working set: 5378MB Page file: 5273MB Video Budget: 14551MB Video Usage: 9850MB Sys Budget: 23529MB Sys Usage: 897MB Tex Usage: 4765MB Tex Budget: 4678MB Mesh Usage: 1933MB Mesh Budget: 1943MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 33.250000
+05:33:30:291 (00000328) > [NxFrameGen] Pausing framegen
+05:33:36:705 (00000328) > [NxFrameGen] Unpausing framegen
+05:34:02:513 (00000328) > [NxFrameGen] Pausing framegen
+05:34:13:301 (00000328) > [NxFrameGen] Unpausing framegen
+05:34:15:359 (00000368) > [Render] Working set: 5410MB Page file: 5305MB Video Budget: 14559MB Video Usage: 9861MB Sys Budget: 23528MB Sys Usage: 897MB Tex Usage: 4770MB Tex Budget: 4678MB Mesh Usage: 1882MB Mesh Budget: 1931MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 41.349998
+05:34:56:985 (00000328) > [NxFrameGen] Pausing framegen
+05:35:02:832 (00000328) > [NxFrameGen] Unpausing framegen
+05:35:15:365 (00000368) > [Render] Working set: 5408MB Page file: 5303MB Video Budget: 14572MB Video Usage: 9909MB Sys Budget: 23524MB Sys Usage: 897MB Tex Usage: 4767MB Tex Budget: 4678MB Mesh Usage: 1943MB Mesh Budget: 1966MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 37.116665
+05:36:15:390 (00000368) > [Render] Working set: 5390MB Page file: 5285MB Video Budget: 14559MB Video Usage: 9812MB Sys Budget: 23518MB Sys Usage: 897MB Tex Usage: 4773MB Tex Budget: 4678MB Mesh Usage: 1972MB Mesh Budget: 1994MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 32.783333
+05:36:18:058 (00000328) > [NxFrameGen] Pausing framegen
+05:37:15:402 (00000368) > [Render] Working set: 5408MB Page file: 5303MB Video Budget: 14559MB Video Usage: 10120MB Sys Budget: 23524MB Sys Usage: 897MB Tex Usage: 4776MB Tex Budget: 4678MB Mesh Usage: 2110MB Mesh Budget: 2182MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 41.549999
+05:38:15:420 (00000368) > [Render] Working set: 5408MB Page file: 5303MB Video Budget: 14580MB Video Usage: 10120MB Sys Budget: 23528MB Sys Usage: 897MB Tex Usage: 4776MB Tex Budget: 4678MB Mesh Usage: 2110MB Mesh Budget: 2182MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 43.349998
+05:39:15:432 (00000368) > [Render] Working set: 5408MB Page file: 5303MB Video Budget: 14441MB Video Usage: 10120MB Sys Budget: 23510MB Sys Usage: 897MB Tex Usage: 4776MB Tex Budget: 4678MB Mesh Usage: 2110MB Mesh Budget: 2182MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 41.283333
+05:40:15:451 (00000368) > [Render] Working set: 5409MB Page file: 5303MB Video Budget: 14493MB Video Usage: 10120MB Sys Budget: 23511MB Sys Usage: 897MB Tex Usage: 4776MB Tex Budget: 4678MB Mesh Usage: 2110MB Mesh Budget: 2182MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 44.183334
+05:41:15:456 (00000368) > [Render] Working set: 5409MB Page file: 5304MB Video Budget: 14493MB Video Usage: 10120MB Sys Budget: 23515MB Sys Usage: 897MB Tex Usage: 4776MB Tex Budget: 4678MB Mesh Usage: 2110MB Mesh Budget: 2182MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 44.183334
+05:41:59:650 (00000328) > [NxFrameGen] Unpausing framegen
+05:42:15:479 (00000368) > [Render] Working set: 5392MB Page file: 5287MB Video Budget: 14505MB Video Usage: 9892MB Sys Budget: 23521MB Sys Usage: 897MB Tex Usage: 4772MB Tex Budget: 4678MB Mesh Usage: 1969MB Mesh Budget: 1980MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 40.533333
+05:43:15:496 (00000368) > [Render] Working set: 5417MB Page file: 5312MB Video Budget: 14513MB Video Usage: 9732MB Sys Budget: 23519MB Sys Usage: 897MB Tex Usage: 4774MB Tex Budget: 4678MB Mesh Usage: 1908MB Mesh Budget: 1912MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 36.983334
+05:44:00:838 (00000328) > [NxFrameGen] Pausing framegen
+05:44:03:760 (00000328) > [NxFrameGen] Unpausing framegen
+05:44:05:592 (00000328) > [NxFrameGen] Pausing framegen
+05:44:14:218 (00000328) > [NxFrameGen] Unpausing framegen
+05:44:15:529 (00000368) > [Render] Working set: 5517MB Page file: 5412MB Video Budget: 14505MB Video Usage: 10104MB Sys Budget: 23519MB Sys Usage: 897MB Tex Usage: 4767MB Tex Budget: 4678MB Mesh Usage: 1988MB Mesh Budget: 2112MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 38.133335
+05:44:34:328 (00000328) > [NxFrameGen] Pausing framegen
+05:44:34:996 (00000328) > [NxFrameGen] Unpausing framegen
+05:45:02:968 (00000328) > [NxFrameGen] Pausing framegen
+05:45:15:534 (00000368) > [Render] Working set: 5524MB Page file: 5418MB Video Budget: 14513MB Video Usage: 10306MB Sys Budget: 23519MB Sys Usage: 897MB Tex Usage: 4772MB Tex Budget: 4678MB Mesh Usage: 2248MB Mesh Budget: 2271MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 43.483334
+05:45:21:614 (00000328) > [NxFrameGen] Unpausing framegen
+05:45:27:514 (00000328) > [NxFrameGen] Pausing framegen
+05:45:39:762 (00000328) > [NxFrameGen] Unpausing framegen
+05:45:43:599 (00000328) > [NxFrameGen] Pausing framegen
+05:45:45:091 (00000328) > [NxFrameGen] Unpausing framegen
+05:46:15:537 (00000368) > [Render] Working set: 5539MB Page file: 5434MB Video Budget: 14505MB Video Usage: 10213MB Sys Budget: 23519MB Sys Usage: 897MB Tex Usage: 4771MB Tex Budget: 4678MB Mesh Usage: 2142MB Mesh Budget: 2204MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 46.583332
+05:46:24:978 (00000328) > [NxFrameGen] Pausing framegen
+05:47:04:000 (00000328) > [NxFrameGen] Unpausing framegen
+05:47:05:846 (00000328) > [NxFrameGen] Pausing framegen
+05:47:07:752 (00000328) > [NxFrameGen] Unpausing framegen
+05:47:15:550 (00000368) > [Render] Working set: 5547MB Page file: 5442MB Video Budget: 14513MB Video Usage: 10487MB Sys Budget: 23519MB Sys Usage: 897MB Tex Usage: 4749MB Tex Budget: 4678MB Mesh Usage: 2360MB Mesh Budget: 2470MB PSO Hitches: 0 (0.000ms Draw, 0.000ms, Async) Demoted: 0MB fps: 48.500000
+05:47:24:239 (00000328) > [NxFrameGen] Pausing framegen
+05:47:30:756 (00000328) > [NxFrameGen] Unpausing framegen
+05:47:33:815 (00000328) > [NxFrameGen] Pausing framegen
+05:47:34:426 (00000328) > [NxFrameGen] Unpausing framegen
+05:47:36:829 (00000328) > [NxFrameGen] Pausing framegen
+05:47:46:556 (00000328) > [NxFrameGen] There is an extra swapchain reference laying around somewhere. Ref count 1
